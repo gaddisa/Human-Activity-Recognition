@@ -1,2 +1,2 @@
 # Human-Activity-Recognition
-Human Activity Recognition Using Deep Learning
+Human Activity Recognition from Mobile Sensor Data Using Deep Learning
