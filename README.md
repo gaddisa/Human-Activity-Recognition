@@ -65,13 +65,12 @@ The trained models were deployed for real-time activity recognition on mobile de
 
 ## Additional Information
 
-For more details, please refer to the [documentation](documentation.md) and [code repository](https://github.com/yourusername/Human-Activity-Recognition).
 
 ---
 
 ## Contact
 
-For inquiries or collaborations, feel free to contact me at [your_email@example.com](mailto:your_email@example.com).
+For inquiries or collaborations, feel free to contact me at gaddisaolex@gmail.com.
 
 
 
