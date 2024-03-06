@@ -1,7 +1,7 @@
 <h1 align="center">Human Activity Recognition</h1>
 
 <p align="center">
-  <img src="icon_2.png" alt="Icon" width="200px">
+  <img src="icon_2.png" alt="Icon" height="200px" width="400px">
 </p>
 
 ---
