@@ -41,6 +41,7 @@ The project utilizes state-of-the-art deep learning models for activity recognit
 - Convolutional Neural Networks (CNNs)
 - Long Short-Term Memory Networks (LSTMs)
 - Hybrid CNN-LSTM Models
+[Link to Notebook](human_activity_recognition.ipynb)
 
 ---
 
