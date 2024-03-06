@@ -1,4 +1,4 @@
-<h1 align="center">Human Activity Recognition</h1>
+<h1 align="center">Human Activity Recognition Using Pure Python</h1>
 
 <p align="center">
   <img src="icon_2.png" alt="Icon" height="200px" width="400px">
